@@ -1,0 +1,2 @@
+data.to_csv("data/k8s_metrics.csv", index=False)
+print("Dataset saved to data/k8s_metrics.csv")

@@ -1,0 +1,14 @@
+[
+    {
+        "cpu_usage": 50,
+        "memory_usage": 60,
+        "disk_io": 30,
+        "network_io": 20
+    },
+    {
+        "cpu_usage": 90,
+        "memory_usage": 95,
+        "disk_io": 50,
+        "network_io": 40
+    }
+]
